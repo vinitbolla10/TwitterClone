@@ -1,2 +1,2 @@
 # TwitterClone
-Technology Stack  -  HTML | CSS | JavaScript | Node.js | MongoDB  
+Technology Stack  -  HTML | CSS | JavaScript | Node.js | Express | MongoDB  
